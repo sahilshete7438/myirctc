@@ -5,6 +5,11 @@
     <h1>Provide below information to book a train ticket !!</h1>
     <hr>
 
+ <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+
+
+   
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
